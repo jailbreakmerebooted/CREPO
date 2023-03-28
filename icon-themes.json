@@ -1,5 +1,13 @@
 [
   {
+    "name": "Vivacity II",
+    "description": "",
+    "url": "icon-themes/Vivacity.zip",
+    "preview": "icon-theme-previews/Lollipop.png",
+    "contact": { "Twitter": "@Sean" },
+    "version": "1.0"
+  },
+  {
     "name": "Lollipop",
     "description": "",
     "url": "icon-themes/Lollipop.zip",
